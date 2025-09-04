@@ -1,5 +1,6 @@
-![Matrix Digital Rain](https://github.com/user-attachments/assets/1f5c3b6a-8f3a-4a8d-9b8b-0c9c6a8a7b3f)
-
+<div align="center">
+  <img src="https://raw.githubusercontent.com/user-attachments/assets/8c5a9d8d-4b2c-4f6a-9d8a-0c9b9c9a9b9c" alt="Matrix Digital Rain" width="800" />
+</div>
 # 🛡️ Cyber Labs
 
 Portfólio de projetos e laboratórios práticos em segurança da informação, pentest, redes e sistemas.
