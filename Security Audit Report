@@ -1,0 +1,23 @@
+📋 Audit Summary
+During the assessment, customer data handling and IT asset management processes were analyzed. The findings indicate:
+Sensitive customer data is not properly managed or protected.
+The IT team lacks visibility and control over the company’s assets.
+The overall risk level is high, with no clear backup or disaster recovery strategy.
+⚠️ Key Risks Identified
+Insufficient asset management and monitoring.
+Exposure of sensitive customer data to unauthorized access or attacks.
+Non-compliance with GDPR requirements for data protection.
+Lack of contingency measures such as backups and disaster recovery plans.
+✅ Security Recommendations
+To mitigate the risks and improve compliance, the following measures were recommended:
+🔐 Password encryption to protect authentication data.
+👥 Employee access control (least privilege principle) for sensitive data.
+🔄 Separation of duties to reduce insider threats and human error.
+📝 Security policy agreements signed by employees to enforce accountability.
+💾 Backup and disaster recovery plans to ensure business continuity.
+🎯 Conclusion
+By implementing these recommendations, the company will:
+Strengthen its security posture.
+Reduce risks related to sensitive data exposure.
+Ensure compliance with GDPR and other data protection regulations.
+Improve resilience against potential cyberattacks.
